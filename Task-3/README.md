@@ -2,7 +2,7 @@
 
 In this task, all the analysis carried out upto Task 2 needs to be presented along with our final recommendations on the new high value customers, in the form of a Dashboard. Since Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner, we need to support our results and analysis in this form.
 
-The Dashboard created by me can be viewed ![here](https://public.tableau.com/profile/karan.rakesh.gupta#!/vizhome/KPMG-DataAnalysisandInsights/PastDemographicAnalysis)
+The Dashboard created by me can be viewed [here](https://public.tableau.com/profile/karan.rakesh.gupta#!/vizhome/KPMG-DataAnalysisandInsights/PastDemographicAnalysis)
 
 I have created a total of 3 Dashboards.
 
