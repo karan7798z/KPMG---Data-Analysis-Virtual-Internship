@@ -1,4 +1,4 @@
-## Task 2
+## Task 2 - Data Insights
 
 In Task 2, the requirement was to analyze the cleaned data and derive insights from the same which would then be used to recommend high value customers from amongst the list of 1000 new customers so that they can be targeted to drive the most value for Sprockets. 
 
