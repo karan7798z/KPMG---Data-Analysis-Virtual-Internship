@@ -23,4 +23,4 @@ The task is accomplished in 3 phases as instructed by the team -
 - #### 3. Interpretation
   Over here, the different categories are explained as to what does each interpret, and also a relation between the different metrics that compose our RFM score are compared.
   
-  A detailed presentation explaining the same is attached here. This presentation will be used to present our analysis to the client, which is also the requirement of our Task 2.
+  A detailed presentation explaining the same is attached [here](). This presentation will be used to present our analysis to the client, which is also the requirement of our Task 2.
