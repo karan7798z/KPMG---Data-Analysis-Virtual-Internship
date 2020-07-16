@@ -6,3 +6,5 @@ The Internship tasks are completed in 3 steps -
 #### 1. Task 1 - Data Exploration
 #### 2. Task 2 - Data Insights
 #### 3. Task 3 - Data Insights and Presentation
+
+Final Tableau Dashboard - https://public.tableau.com/profile/karan.rakesh.gupta#!/vizhome/KPMG-DataAnalysisandInsights/OldCustomerandTransactionAnalysis
